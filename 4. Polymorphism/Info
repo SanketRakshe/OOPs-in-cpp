@@ -1,0 +1,9 @@
+Polymorphism have two types
+
+1) Complile time Polymorphism
+        i)  Function Overloading
+        ii) Operator Overloading
+
+2) Run time Polymorphism
+        i)  Function Overrriding
+        ii) Virtual Function
